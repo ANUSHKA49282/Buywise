@@ -1,0 +1,5 @@
+StoreID,SKU,ProductName,CurrentStock,WeeklySales
+101,1001,Amul Milk 1L,40,"[10, 12, 15, 9, 8, 13, 11]"
+102,1001,Amul Milk 1L,5,"[14, 16, 18, 19, 20, 17, 21]"
+103,1002,Britannia Bread,80,"[18, 22, 19, 21, 20, 23, 25]"
+104,1002,Britannia Bread,10,"[30, 33, 29, 28, 35, 34, 37]"
